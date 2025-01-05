@@ -1,0 +1,6 @@
+flask
+pandas
+matplotlib
+scikit-learn
+qroq
+streamlit
