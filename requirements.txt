@@ -2,6 +2,6 @@ flask
 pandas
 matplotlib
 scikit-learn
-qroq
+groq
 streamlit
 gunicorn
