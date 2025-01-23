@@ -1,7 +1,5 @@
 flask
 pandas
-matplotlib
-scikit-learn
 groq
 streamlit
 gunicorn
